@@ -1,5 +1,5 @@
 # Data-Analysis
-Customer behaviour analysis using python:
+# Customer behaviour analysis using python:
 customer behaviour analysis is a valuabel process that empowers businesses to make data drivewn decisions, enhancing customer experience and remain competetive in dynamic market.
 process steps as follows.
 Step 1- collect data related to customer interaction. It can include transaction history, website visit, social media engagement , customer feedback.
